@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_AverageAffineTransform.a  CMakeFiles/l_AverageAffineTransform.dir/AverageAffineTransform.cxx.o
+/usr/bin/ranlib ../../lib/libl_AverageAffineTransform.a

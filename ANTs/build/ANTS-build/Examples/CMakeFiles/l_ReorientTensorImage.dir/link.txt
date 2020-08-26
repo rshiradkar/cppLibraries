@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ReorientTensorImage.a  CMakeFiles/l_ReorientTensorImage.dir/ReorientTensorImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ReorientTensorImage.a

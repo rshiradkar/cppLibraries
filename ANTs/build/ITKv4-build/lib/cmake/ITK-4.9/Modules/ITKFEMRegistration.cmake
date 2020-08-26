@@ -1,0 +1,12 @@
+set(ITKFEMRegistration_LOADED 1)
+set(ITKFEMRegistration_ENABLE_SHARED "0")
+set(ITKFEMRegistration_DEPENDS "ITKFEM;ITKImageFeature;ITKImageStatistics;ITKPDEDeformableRegistration;ITKSpatialObjects")
+set(ITKFEMRegistration_PUBLIC_DEPENDS "ITKFEM;ITKImageFeature;ITKImageStatistics;ITKPDEDeformableRegistration;ITKSpatialObjects")
+set(ITKFEMRegistration_TRANSITIVE_DEPENDS "ITKFEM;ITKImageFeature;ITKImageStatistics;ITKPDEDeformableRegistration;ITKSpatialObjects")
+set(ITKFEMRegistration_PRIVATE_DEPENDS "")
+set(ITKFEMRegistration_LIBRARIES "ITKFEM;ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath;ITKMesh;ITKOptimizers")
+set(ITKFEMRegistration_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Registration/FEM/include")
+set(ITKFEMRegistration_LIBRARY_DIRS "")
+set(ITKFEMRegistration_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKFEMRegistration_TARGETS_FILE "")
+

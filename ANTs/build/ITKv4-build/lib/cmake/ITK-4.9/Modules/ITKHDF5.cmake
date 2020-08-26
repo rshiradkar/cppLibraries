@@ -1,0 +1,12 @@
+set(ITKHDF5_LOADED 1)
+set(ITKHDF5_ENABLE_SHARED "0")
+set(ITKHDF5_DEPENDS "ITKZLIB")
+set(ITKHDF5_PUBLIC_DEPENDS "ITKZLIB")
+set(ITKHDF5_TRANSITIVE_DEPENDS "ITKZLIB")
+set(ITKHDF5_PRIVATE_DEPENDS "")
+set(ITKHDF5_LIBRARIES "itkhdf5_cpp;itkhdf5")
+set(ITKHDF5_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/HDF5/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/HDF5/src")
+set(ITKHDF5_LIBRARY_DIRS "")
+set(ITKHDF5_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKHDF5_TARGETS_FILE "")
+

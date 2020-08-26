@@ -1,0 +1,12 @@
+set(ITKBiasCorrection_LOADED 1)
+set(ITKBiasCorrection_ENABLE_SHARED "1")
+set(ITKBiasCorrection_DEPENDS "ITKCommon;ITKImageGrid;ITKImageIntensity;ITKOptimizers;ITKPolynomials")
+set(ITKBiasCorrection_PUBLIC_DEPENDS "")
+set(ITKBiasCorrection_TRANSITIVE_DEPENDS "ITKImageGrid;ITKImageIntensity;ITKOptimizers;ITKPolynomials")
+set(ITKBiasCorrection_PRIVATE_DEPENDS "ITKCommon")
+set(ITKBiasCorrection_LIBRARIES "ITKBiasCorrection")
+set(ITKBiasCorrection_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/BiasCorrection/include")
+set(ITKBiasCorrection_LIBRARY_DIRS "")
+set(ITKBiasCorrection_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKBiasCorrection_TARGETS_FILE "")
+

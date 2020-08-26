@@ -1,0 +1,5 @@
+# Target labels
+ ITKIONIFTI
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/NIFTI/src/itkNiftiImageIOFactory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx

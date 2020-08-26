@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SetDirectionByMatrix.a  CMakeFiles/l_SetDirectionByMatrix.dir/SetDirectionByMatrix.cxx.o
+/usr/bin/ranlib ../../lib/libl_SetDirectionByMatrix.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_LabelGeometryMeasures.a  CMakeFiles/l_LabelGeometryMeasures.dir/LabelGeometryMeasures.cxx.o
+/usr/bin/ranlib ../../lib/libl_LabelGeometryMeasures.a

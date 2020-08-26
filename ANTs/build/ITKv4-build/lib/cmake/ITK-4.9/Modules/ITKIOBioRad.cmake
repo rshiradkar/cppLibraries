@@ -1,0 +1,12 @@
+set(ITKIOBioRad_LOADED 1)
+set(ITKIOBioRad_ENABLE_SHARED "1")
+set(ITKIOBioRad_DEPENDS "ITKIOImageBase")
+set(ITKIOBioRad_PUBLIC_DEPENDS "")
+set(ITKIOBioRad_TRANSITIVE_DEPENDS "")
+set(ITKIOBioRad_PRIVATE_DEPENDS "ITKIOImageBase")
+set(ITKIOBioRad_LIBRARIES "ITKIOBioRad")
+set(ITKIOBioRad_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/BioRad/include")
+set(ITKIOBioRad_LIBRARY_DIRS "")
+set(ITKIOBioRad_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKIOBioRad_TARGETS_FILE "")
+

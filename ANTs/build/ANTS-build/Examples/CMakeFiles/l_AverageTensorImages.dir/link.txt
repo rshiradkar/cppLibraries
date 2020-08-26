@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_AverageTensorImages.a  CMakeFiles/l_AverageTensorImages.dir/AverageTensorImages.cxx.o
+/usr/bin/ranlib ../../lib/libl_AverageTensorImages.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_simpleSynRegistration.a  CMakeFiles/l_simpleSynRegistration.dir/simpleSynRegistration.cxx.o
+/usr/bin/ranlib ../../lib/libl_simpleSynRegistration.a

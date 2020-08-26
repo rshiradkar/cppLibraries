@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_FitBSplineToPoints.a  CMakeFiles/l_FitBSplineToPoints.dir/FitBSplineToPoints.cxx.o
+/usr/bin/ranlib ../../lib/libl_FitBSplineToPoints.a

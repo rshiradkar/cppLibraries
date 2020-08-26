@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOVTK-4.9.a  CMakeFiles/ITKIOVTK.dir/itkVTKImageIOFactory.cxx.o CMakeFiles/ITKIOVTK.dir/itkVTKImageIO.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOVTK-4.9.a

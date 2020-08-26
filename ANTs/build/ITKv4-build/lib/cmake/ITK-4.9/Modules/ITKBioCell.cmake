@@ -1,0 +1,12 @@
+set(ITKBioCell_LOADED 1)
+set(ITKBioCell_ENABLE_SHARED "1")
+set(ITKBioCell_DEPENDS "ITKCommon;ITKMesh")
+set(ITKBioCell_PUBLIC_DEPENDS "ITKMesh")
+set(ITKBioCell_TRANSITIVE_DEPENDS "ITKMesh")
+set(ITKBioCell_PRIVATE_DEPENDS "ITKCommon")
+set(ITKBioCell_LIBRARIES "ITKBioCell")
+set(ITKBioCell_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/BioCell/include")
+set(ITKBioCell_LIBRARY_DIRS "")
+set(ITKBioCell_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKBioCell_TARGETS_FILE "")
+

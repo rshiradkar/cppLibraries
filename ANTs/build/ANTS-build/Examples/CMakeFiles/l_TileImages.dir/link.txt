@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_TileImages.a  CMakeFiles/l_TileImages.dir/TileImages.cxx.o
+/usr/bin/ranlib ../../lib/libl_TileImages.a

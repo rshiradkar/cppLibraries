@@ -1,0 +1,12 @@
+set(ITKGPURegistrationCommon_LOADED 1)
+set(ITKGPURegistrationCommon_ENABLE_SHARED "0")
+set(ITKGPURegistrationCommon_DEPENDS "ITKCommon;ITKGPUCommon;ITKGPUFiniteDifference")
+set(ITKGPURegistrationCommon_PUBLIC_DEPENDS "ITKCommon;ITKGPUCommon;ITKGPUFiniteDifference")
+set(ITKGPURegistrationCommon_TRANSITIVE_DEPENDS "ITKCommon;ITKGPUCommon;ITKGPUFiniteDifference")
+set(ITKGPURegistrationCommon_PRIVATE_DEPENDS "")
+set(ITKGPURegistrationCommon_LIBRARIES "ITKCommon")
+set(ITKGPURegistrationCommon_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Registration/GPUCommon/include")
+set(ITKGPURegistrationCommon_LIBRARY_DIRS "")
+set(ITKGPURegistrationCommon_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKGPURegistrationCommon_TARGETS_FILE "")
+

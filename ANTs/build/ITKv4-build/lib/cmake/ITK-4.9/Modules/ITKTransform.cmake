@@ -1,0 +1,12 @@
+set(ITKTransform_LOADED 1)
+set(ITKTransform_ENABLE_SHARED "1")
+set(ITKTransform_DEPENDS "ITKCommon;ITKImageFilterBase;ITKStatistics")
+set(ITKTransform_PUBLIC_DEPENDS "ITKCommon")
+set(ITKTransform_TRANSITIVE_DEPENDS "ITKCommon;ITKImageFilterBase;ITKStatistics")
+set(ITKTransform_PRIVATE_DEPENDS "")
+set(ITKTransform_LIBRARIES "ITKTransform")
+set(ITKTransform_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/Transform/include")
+set(ITKTransform_LIBRARY_DIRS "")
+set(ITKTransform_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKTransform_TARGETS_FILE "")
+

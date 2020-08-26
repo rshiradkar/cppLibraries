@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_TextureRunLengthFeatures.a  CMakeFiles/l_TextureRunLengthFeatures.dir/TextureRunLengthFeatures.cxx.o
+/usr/bin/ranlib ../../lib/libl_TextureRunLengthFeatures.a

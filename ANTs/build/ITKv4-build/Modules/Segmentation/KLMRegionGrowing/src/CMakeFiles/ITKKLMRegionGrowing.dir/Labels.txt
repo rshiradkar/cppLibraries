@@ -1,0 +1,7 @@
+# Target labels
+ ITKKLMRegionGrowing
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationRegion.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationRegion.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationBorder.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationBorder.cxx

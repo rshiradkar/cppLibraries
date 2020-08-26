@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_Atropos.a  CMakeFiles/l_Atropos.dir/Atropos.cxx.o
+/usr/bin/ranlib ../../lib/libl_Atropos.a

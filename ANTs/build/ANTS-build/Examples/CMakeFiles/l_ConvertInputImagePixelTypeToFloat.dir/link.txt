@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertInputImagePixelTypeToFloat.a  CMakeFiles/l_ConvertInputImagePixelTypeToFloat.dir/ConvertInputImagePixelTypeToFloat.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertInputImagePixelTypeToFloat.a

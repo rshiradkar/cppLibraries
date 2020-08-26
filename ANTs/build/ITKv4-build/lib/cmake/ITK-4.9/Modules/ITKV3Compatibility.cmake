@@ -1,0 +1,12 @@
+set(ITKV3Compatibility_LOADED 1)
+set(ITKV3Compatibility_ENABLE_SHARED "0")
+set(ITKV3Compatibility_DEPENDS "ITKDisplacementField")
+set(ITKV3Compatibility_PUBLIC_DEPENDS "")
+set(ITKV3Compatibility_TRANSITIVE_DEPENDS "ITKDisplacementField")
+set(ITKV3Compatibility_PRIVATE_DEPENDS "")
+set(ITKV3Compatibility_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKV3Compatibility_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/V3Compatibility/include")
+set(ITKV3Compatibility_LIBRARY_DIRS "")
+set(ITKV3Compatibility_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKV3Compatibility_TARGETS_FILE "")
+

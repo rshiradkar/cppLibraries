@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsApplyTransformsToPoints.a  CMakeFiles/l_antsApplyTransformsToPoints.dir/antsApplyTransformsToPoints.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsApplyTransformsToPoints.a

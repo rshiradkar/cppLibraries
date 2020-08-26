@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertTransformFile.a  CMakeFiles/l_ConvertTransformFile.dir/ConvertTransformFile.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertTransformFile.a

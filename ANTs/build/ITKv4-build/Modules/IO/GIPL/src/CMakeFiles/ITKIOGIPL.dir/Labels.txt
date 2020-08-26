@@ -1,0 +1,5 @@
+# Target labels
+ ITKIOGIPL
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/GIPL/src/itkGiplImageIOFactory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/GIPL/src/itkGiplImageIO.cxx

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_CopyImageHeaderInformation.a  CMakeFiles/l_CopyImageHeaderInformation.dir/CopyImageHeaderInformation.cxx.o
+/usr/bin/ranlib ../../lib/libl_CopyImageHeaderInformation.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_TimeSCCAN.a  CMakeFiles/l_TimeSCCAN.dir/TimeSCCAN.cxx.o
+/usr/bin/ranlib ../../lib/libl_TimeSCCAN.a

@@ -1,0 +1,12 @@
+set(ITKCommon_LOADED 1)
+set(ITKCommon_ENABLE_SHARED "1")
+set(ITKCommon_DEPENDS "ITKDoubleConversion;ITKKWIML;ITKKWSys;ITKVNLInstantiation")
+set(ITKCommon_PUBLIC_DEPENDS "ITKKWIML")
+set(ITKCommon_TRANSITIVE_DEPENDS "ITKKWIML;ITKKWSys;ITKVNLInstantiation")
+set(ITKCommon_PRIVATE_DEPENDS "ITKDoubleConversion")
+set(ITKCommon_LIBRARIES "ITKCommon")
+set(ITKCommon_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/Core/Common;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/Common/include")
+set(ITKCommon_LIBRARY_DIRS "")
+set(ITKCommon_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKCommon_TARGETS_FILE "")
+

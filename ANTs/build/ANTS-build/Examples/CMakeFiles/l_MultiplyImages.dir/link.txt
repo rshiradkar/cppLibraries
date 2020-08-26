@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_MultiplyImages.a  CMakeFiles/l_MultiplyImages.dir/MultiplyImages.cxx.o
+/usr/bin/ranlib ../../lib/libl_MultiplyImages.a

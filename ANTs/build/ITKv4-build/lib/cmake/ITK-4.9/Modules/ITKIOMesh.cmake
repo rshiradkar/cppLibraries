@@ -1,0 +1,12 @@
+set(ITKIOMesh_LOADED 1)
+set(ITKIOMesh_ENABLE_SHARED "1")
+set(ITKIOMesh_DEPENDS "ITKDoubleConversion;ITKGIFTI;ITKIOImageBase;ITKMesh")
+set(ITKIOMesh_PUBLIC_DEPENDS "")
+set(ITKIOMesh_TRANSITIVE_DEPENDS "ITKMesh")
+set(ITKIOMesh_PRIVATE_DEPENDS "ITKDoubleConversion;ITKGIFTI;ITKIOImageBase")
+set(ITKIOMesh_LIBRARIES "ITKIOMesh")
+set(ITKIOMesh_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/Mesh/include")
+set(ITKIOMesh_LIBRARY_DIRS "")
+set(ITKIOMesh_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKIOMesh_TARGETS_FILE "")
+

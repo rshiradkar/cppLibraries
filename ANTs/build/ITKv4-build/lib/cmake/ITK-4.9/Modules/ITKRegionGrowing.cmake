@@ -1,0 +1,12 @@
+set(ITKRegionGrowing_LOADED 1)
+set(ITKRegionGrowing_ENABLE_SHARED "0")
+set(ITKRegionGrowing_DEPENDS "ITKThresholding")
+set(ITKRegionGrowing_PUBLIC_DEPENDS "ITKThresholding")
+set(ITKRegionGrowing_TRANSITIVE_DEPENDS "ITKThresholding")
+set(ITKRegionGrowing_PRIVATE_DEPENDS "")
+set(ITKRegionGrowing_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKRegionGrowing_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/RegionGrowing/include")
+set(ITKRegionGrowing_LIBRARY_DIRS "")
+set(ITKRegionGrowing_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKRegionGrowing_TARGETS_FILE "")
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_N4BiasFieldCorrection.a  CMakeFiles/l_N4BiasFieldCorrection.dir/N4BiasFieldCorrection.cxx.o
+/usr/bin/ranlib ../../lib/libl_N4BiasFieldCorrection.a

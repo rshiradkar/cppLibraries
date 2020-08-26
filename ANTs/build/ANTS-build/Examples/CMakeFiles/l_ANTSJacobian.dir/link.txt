@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTSJacobian.a  CMakeFiles/l_ANTSJacobian.dir/ANTSJacobian.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTSJacobian.a

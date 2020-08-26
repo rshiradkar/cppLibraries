@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTSIntegrateVelocityField.a  CMakeFiles/l_ANTSIntegrateVelocityField.dir/ANTSIntegrateVelocityField.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTSIntegrateVelocityField.a

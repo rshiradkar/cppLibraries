@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SurfaceCurvature.a  CMakeFiles/l_SurfaceCurvature.dir/SurfaceCurvature.cxx.o
+/usr/bin/ranlib ../../lib/libl_SurfaceCurvature.a

@@ -1,0 +1,12 @@
+set(ITKJPEG_LOADED 1)
+set(ITKJPEG_ENABLE_SHARED "0")
+set(ITKJPEG_DEPENDS "")
+set(ITKJPEG_PUBLIC_DEPENDS "")
+set(ITKJPEG_TRANSITIVE_DEPENDS "")
+set(ITKJPEG_PRIVATE_DEPENDS "")
+set(ITKJPEG_LIBRARIES "itkjpeg")
+set(ITKJPEG_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/JPEG/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/JPEG/src")
+set(ITKJPEG_LIBRARY_DIRS "")
+set(ITKJPEG_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKJPEG_TARGETS_FILE "")
+

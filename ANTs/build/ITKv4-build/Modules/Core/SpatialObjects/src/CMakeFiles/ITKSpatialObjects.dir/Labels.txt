@@ -1,0 +1,7 @@
+# Target labels
+ ITKSpatialObjects
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/SpatialObjects/src/itkMetaEvent.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/SpatialObjects/src/itkCylinderSpatialObject.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/SpatialObjects/src/itkSpatialObjectFactoryBase.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/SpatialObjects/src/itkArrowSpatialObject.cxx

@@ -1,0 +1,12 @@
+set(ITKMetaIO_LOADED 1)
+set(ITKMetaIO_ENABLE_SHARED "0")
+set(ITKMetaIO_DEPENDS "ITKZLIB")
+set(ITKMetaIO_PUBLIC_DEPENDS "ITKZLIB")
+set(ITKMetaIO_TRANSITIVE_DEPENDS "ITKZLIB")
+set(ITKMetaIO_PRIVATE_DEPENDS "")
+set(ITKMetaIO_LIBRARIES "ITKMetaIO")
+set(ITKMetaIO_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/MetaIO/src/MetaIO/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/MetaIO/src/MetaIO/src")
+set(ITKMetaIO_LIBRARY_DIRS "")
+set(ITKMetaIO_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKMetaIO_TARGETS_FILE "")
+

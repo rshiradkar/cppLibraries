@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SmoothImage.a  CMakeFiles/l_SmoothImage.dir/SmoothImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_SmoothImage.a

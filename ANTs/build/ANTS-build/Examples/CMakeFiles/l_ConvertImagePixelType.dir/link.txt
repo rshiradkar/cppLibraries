@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertImagePixelType.a  CMakeFiles/l_ConvertImagePixelType.dir/ConvertImagePixelType.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertImagePixelType.a

@@ -1,0 +1,4 @@
+# Target labels
+ ITKNIFTI
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/NIFTI/src/nifti/niftilib/nifti1_io.c

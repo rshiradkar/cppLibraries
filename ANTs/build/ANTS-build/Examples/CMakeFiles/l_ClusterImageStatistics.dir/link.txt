@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ClusterImageStatistics.a  CMakeFiles/l_ClusterImageStatistics.dir/ClusterImageStatistics.cxx.o
+/usr/bin/ranlib ../../lib/libl_ClusterImageStatistics.a

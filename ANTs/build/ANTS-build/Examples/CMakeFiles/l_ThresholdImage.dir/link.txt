@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ThresholdImage.a  CMakeFiles/l_ThresholdImage.dir/ThresholdImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ThresholdImage.a

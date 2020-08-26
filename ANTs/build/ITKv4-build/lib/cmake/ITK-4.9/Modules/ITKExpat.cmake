@@ -1,0 +1,12 @@
+set(ITKExpat_LOADED 1)
+set(ITKExpat_ENABLE_SHARED "0")
+set(ITKExpat_DEPENDS "")
+set(ITKExpat_PUBLIC_DEPENDS "")
+set(ITKExpat_TRANSITIVE_DEPENDS "")
+set(ITKExpat_PRIVATE_DEPENDS "")
+set(ITKExpat_LIBRARIES "ITKEXPAT")
+set(ITKExpat_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/Expat/src/expat;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/Expat/src/expat")
+set(ITKExpat_LIBRARY_DIRS "")
+set(ITKExpat_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKExpat_TARGETS_FILE "")
+

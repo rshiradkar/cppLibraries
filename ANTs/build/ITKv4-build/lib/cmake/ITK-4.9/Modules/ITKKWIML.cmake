@@ -1,0 +1,12 @@
+set(ITKKWIML_LOADED 1)
+set(ITKKWIML_ENABLE_SHARED "0")
+set(ITKKWIML_DEPENDS "")
+set(ITKKWIML_PUBLIC_DEPENDS "")
+set(ITKKWIML_TRANSITIVE_DEPENDS "")
+set(ITKKWIML_PRIVATE_DEPENDS "")
+set(ITKKWIML_LIBRARIES "")
+set(ITKKWIML_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/KWIML/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/KWIML/src")
+set(ITKKWIML_LIBRARY_DIRS "")
+set(ITKKWIML_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKKWIML_TARGETS_FILE "")
+

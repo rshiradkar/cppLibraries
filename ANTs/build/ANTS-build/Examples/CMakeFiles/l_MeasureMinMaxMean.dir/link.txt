@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_MeasureMinMaxMean.a  CMakeFiles/l_MeasureMinMaxMean.dir/MeasureMinMaxMean.cxx.o
+/usr/bin/ranlib ../../lib/libl_MeasureMinMaxMean.a

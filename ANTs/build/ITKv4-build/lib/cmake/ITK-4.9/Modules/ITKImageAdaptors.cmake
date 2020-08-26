@@ -1,0 +1,12 @@
+set(ITKImageAdaptors_LOADED 1)
+set(ITKImageAdaptors_ENABLE_SHARED "0")
+set(ITKImageAdaptors_DEPENDS "ITKCommon")
+set(ITKImageAdaptors_PUBLIC_DEPENDS "")
+set(ITKImageAdaptors_TRANSITIVE_DEPENDS "")
+set(ITKImageAdaptors_PRIVATE_DEPENDS "ITKCommon")
+set(ITKImageAdaptors_LIBRARIES "ITKCommon")
+set(ITKImageAdaptors_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/ImageAdaptors/include")
+set(ITKImageAdaptors_LIBRARY_DIRS "")
+set(ITKImageAdaptors_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKImageAdaptors_TARGETS_FILE "")
+

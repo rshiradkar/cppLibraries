@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_LaplacianThickness.a  CMakeFiles/l_LaplacianThickness.dir/LaplacianThickness.cxx.o
+/usr/bin/ranlib ../../lib/libl_LaplacianThickness.a

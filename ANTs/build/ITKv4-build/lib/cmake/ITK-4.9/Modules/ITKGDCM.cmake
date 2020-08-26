@@ -1,0 +1,12 @@
+set(ITKGDCM_LOADED 1)
+set(ITKGDCM_ENABLE_SHARED "0")
+set(ITKGDCM_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_PUBLIC_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_TRANSITIVE_DEPENDS "ITKExpat;ITKZLIB")
+set(ITKGDCM_PRIVATE_DEPENDS "")
+set(ITKGDCM_LIBRARIES "gdcmDICT;gdcmMSFF")
+set(ITKGDCM_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/GDCM;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/GDCM/src/gdcm/Source/Common;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/MediaStorageAndFileFormat;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/DataDictionary;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/Common;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/InformationObjectDefinition;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/MessageExchangeDefinition;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/GDCM/src/gdcm/Source/DataStructureAndEncodingDefinition")
+set(ITKGDCM_LIBRARY_DIRS "")
+set(ITKGDCM_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKGDCM_TARGETS_FILE "")
+

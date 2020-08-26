@@ -1,0 +1,12 @@
+set(ITKKLMRegionGrowing_LOADED 1)
+set(ITKKLMRegionGrowing_ENABLE_SHARED "1")
+set(ITKKLMRegionGrowing_DEPENDS "ITKCommon")
+set(ITKKLMRegionGrowing_PUBLIC_DEPENDS "ITKCommon")
+set(ITKKLMRegionGrowing_TRANSITIVE_DEPENDS "ITKCommon")
+set(ITKKLMRegionGrowing_PRIVATE_DEPENDS "")
+set(ITKKLMRegionGrowing_LIBRARIES "ITKKLMRegionGrowing")
+set(ITKKLMRegionGrowing_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/KLMRegionGrowing/include")
+set(ITKKLMRegionGrowing_LIBRARY_DIRS "")
+set(ITKKLMRegionGrowing_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKKLMRegionGrowing_TARGETS_FILE "")
+

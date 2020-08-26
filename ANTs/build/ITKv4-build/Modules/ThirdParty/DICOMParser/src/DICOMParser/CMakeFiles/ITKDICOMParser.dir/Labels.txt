@@ -1,0 +1,8 @@
+# Target labels
+ ITKDICOMParser
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser/DICOMSource.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser/DICOMBuffer.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser/DICOMFile.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser/DICOMParser.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser/DICOMAppHelper.cxx

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_CreateImage.a  CMakeFiles/l_CreateImage.dir/CreateImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_CreateImage.a

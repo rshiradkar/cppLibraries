@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SetOrigin.a  CMakeFiles/l_SetOrigin.dir/SetOrigin.cxx.o
+/usr/bin/ranlib ../../lib/libl_SetOrigin.a

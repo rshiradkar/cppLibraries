@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_AverageAffineTransformNoRigid.a  CMakeFiles/l_AverageAffineTransformNoRigid.dir/AverageAffineTransformNoRigid.cxx.o
+/usr/bin/ranlib ../../lib/libl_AverageAffineTransformNoRigid.a

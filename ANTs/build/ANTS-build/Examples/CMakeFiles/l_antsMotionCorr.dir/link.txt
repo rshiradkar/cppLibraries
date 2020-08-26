@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsMotionCorr.a  CMakeFiles/l_antsMotionCorr.dir/antsMotionCorr.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsMotionCorr.a

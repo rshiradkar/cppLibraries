@@ -1,0 +1,12 @@
+set(ITKClassifiers_LOADED 1)
+set(ITKClassifiers_ENABLE_SHARED "0")
+set(ITKClassifiers_DEPENDS "ITKConnectedComponents;ITKImageGrid;ITKStatistics")
+set(ITKClassifiers_PUBLIC_DEPENDS "ITKConnectedComponents;ITKImageGrid;ITKStatistics")
+set(ITKClassifiers_TRANSITIVE_DEPENDS "ITKConnectedComponents;ITKImageGrid;ITKStatistics")
+set(ITKClassifiers_PRIVATE_DEPENDS "")
+set(ITKClassifiers_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKClassifiers_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/Classifiers/include")
+set(ITKClassifiers_LIBRARY_DIRS "")
+set(ITKClassifiers_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKClassifiers_TARGETS_FILE "")
+

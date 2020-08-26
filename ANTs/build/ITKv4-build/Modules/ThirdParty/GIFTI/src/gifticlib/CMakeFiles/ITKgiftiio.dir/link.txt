@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKgiftiio-4.9.a  CMakeFiles/ITKgiftiio.dir/gifti_io.c.o CMakeFiles/ITKgiftiio.dir/gifti_xml.c.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKgiftiio-4.9.a

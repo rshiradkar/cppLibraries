@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTransformMatlab-4.9.a  CMakeFiles/ITKIOTransformMatlab.dir/itkMatlabTransformIO.cxx.o CMakeFiles/ITKIOTransformMatlab.dir/itkMatlabTransformIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTransformMatlab-4.9.a

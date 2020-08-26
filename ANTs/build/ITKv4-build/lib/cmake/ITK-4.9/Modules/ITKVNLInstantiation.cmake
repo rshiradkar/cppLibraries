@@ -1,0 +1,12 @@
+set(ITKVNLInstantiation_LOADED 1)
+set(ITKVNLInstantiation_ENABLE_SHARED "0")
+set(ITKVNLInstantiation_DEPENDS "ITKVNL")
+set(ITKVNLInstantiation_PUBLIC_DEPENDS "ITKVNL")
+set(ITKVNLInstantiation_TRANSITIVE_DEPENDS "ITKVNL")
+set(ITKVNLInstantiation_PRIVATE_DEPENDS "")
+set(ITKVNLInstantiation_LIBRARIES "itkvnl_algo;itkvnl;itkv3p_netlib")
+set(ITKVNLInstantiation_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNLInstantiation/include")
+set(ITKVNLInstantiation_LIBRARY_DIRS "")
+set(ITKVNLInstantiation_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKVNLInstantiation_TARGETS_FILE "")
+

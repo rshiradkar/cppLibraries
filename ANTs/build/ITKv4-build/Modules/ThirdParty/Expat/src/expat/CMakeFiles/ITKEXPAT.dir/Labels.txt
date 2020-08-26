@@ -1,0 +1,6 @@
+# Target labels
+ ITKExpat
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/Expat/src/expat/xmlparse.c
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/Expat/src/expat/xmltok.c
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/Expat/src/expat/xmlrole.c

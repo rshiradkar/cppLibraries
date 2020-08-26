@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libitktestlib-4.9.a  CMakeFiles/itktestlib.dir/testlib_test.cxx.o CMakeFiles/itktestlib.dir/testlib_main.cxx.o CMakeFiles/itktestlib.dir/testlib_root_dir.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libitktestlib-4.9.a

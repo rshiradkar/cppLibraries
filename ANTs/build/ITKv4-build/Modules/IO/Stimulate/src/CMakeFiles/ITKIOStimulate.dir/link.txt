@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOStimulate-4.9.a  CMakeFiles/ITKIOStimulate.dir/itkStimulateImageIO.cxx.o CMakeFiles/ITKIOStimulate.dir/itkStimulateImageIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOStimulate-4.9.a

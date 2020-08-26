@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertToJpg.a  CMakeFiles/l_ConvertToJpg.dir/ConvertToJpg.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertToJpg.a

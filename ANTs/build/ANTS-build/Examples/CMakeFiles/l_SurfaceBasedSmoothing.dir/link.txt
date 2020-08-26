@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SurfaceBasedSmoothing.a  CMakeFiles/l_SurfaceBasedSmoothing.dir/SurfaceBasedSmoothing.cxx.o
+/usr/bin/ranlib ../../lib/libl_SurfaceBasedSmoothing.a

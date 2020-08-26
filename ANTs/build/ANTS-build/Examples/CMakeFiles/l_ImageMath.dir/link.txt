@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ImageMath.a  CMakeFiles/l_ImageMath.dir/ImageMath.cxx.o
+/usr/bin/ranlib ../../lib/libl_ImageMath.a

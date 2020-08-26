@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_LabelClustersUniquely.a  CMakeFiles/l_LabelClustersUniquely.dir/LabelClustersUniquely.cxx.o
+/usr/bin/ranlib ../../lib/libl_LabelClustersUniquely.a

@@ -1,0 +1,12 @@
+set(ITKNeuralNetworks_LOADED 1)
+set(ITKNeuralNetworks_ENABLE_SHARED "0")
+set(ITKNeuralNetworks_DEPENDS "ITKStatistics")
+set(ITKNeuralNetworks_PUBLIC_DEPENDS "ITKStatistics")
+set(ITKNeuralNetworks_TRANSITIVE_DEPENDS "ITKStatistics")
+set(ITKNeuralNetworks_PRIVATE_DEPENDS "")
+set(ITKNeuralNetworks_LIBRARIES "ITKStatistics")
+set(ITKNeuralNetworks_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/NeuralNetworks/include")
+set(ITKNeuralNetworks_LIBRARY_DIRS "")
+set(ITKNeuralNetworks_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKNeuralNetworks_TARGETS_FILE "")
+

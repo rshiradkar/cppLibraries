@@ -1,0 +1,13 @@
+/**
+ \defgroup ITKV3Compatibility Module ITKV3Compatibility 
+ Classes that provide ITKv3 compatibility. The CMake
+variable ITKV3_COMPATIBILITY must be ON to use these classes. 
+ \par Dependencies:
+ \li \ref ITKDisplacementField 
+ \dot 
+ graph "ITKV3Compatibility" { 
+ "ITKV3Compatibility" -- "ITKDisplacementField"; 
+ } 
+ \enddot 
+ */
+

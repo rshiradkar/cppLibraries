@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertScalarImageToRGB.a  CMakeFiles/l_ConvertScalarImageToRGB.dir/ConvertScalarImageToRGB.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertScalarImageToRGB.a

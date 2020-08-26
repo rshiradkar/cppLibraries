@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_MemoryTest.a  CMakeFiles/l_MemoryTest.dir/MemoryTest.cxx.o
+/usr/bin/ranlib ../../lib/libl_MemoryTest.a

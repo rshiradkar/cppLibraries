@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ImageIntensityStatistics.a  CMakeFiles/l_ImageIntensityStatistics.dir/ImageIntensityStatistics.cxx.o
+/usr/bin/ranlib ../../lib/libl_ImageIntensityStatistics.a

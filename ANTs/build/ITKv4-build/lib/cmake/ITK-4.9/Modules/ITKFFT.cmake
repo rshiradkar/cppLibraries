@@ -1,0 +1,12 @@
+set(ITKFFT_LOADED 1)
+set(ITKFFT_ENABLE_SHARED "0")
+set(ITKFFT_DEPENDS "ITKCommon;ITKImageGrid")
+set(ITKFFT_PUBLIC_DEPENDS "")
+set(ITKFFT_TRANSITIVE_DEPENDS "ITKImageGrid")
+set(ITKFFT_PRIVATE_DEPENDS "ITKCommon")
+set(ITKFFT_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform")
+set(ITKFFT_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/FFT/include")
+set(ITKFFT_LIBRARY_DIRS "")
+set(ITKFFT_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKFFT_TARGETS_FILE "")
+

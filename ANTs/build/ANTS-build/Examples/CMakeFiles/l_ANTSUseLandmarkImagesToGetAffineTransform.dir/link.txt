@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTSUseLandmarkImagesToGetAffineTransform.a  CMakeFiles/l_ANTSUseLandmarkImagesToGetAffineTransform.dir/ANTSUseLandmarkImagesToGetAffineTransform.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTSUseLandmarkImagesToGetAffineTransform.a

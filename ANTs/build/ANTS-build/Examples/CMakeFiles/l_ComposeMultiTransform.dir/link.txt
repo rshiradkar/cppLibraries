@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ComposeMultiTransform.a  CMakeFiles/l_ComposeMultiTransform.dir/ComposeMultiTransform.cxx.o
+/usr/bin/ranlib ../../lib/libl_ComposeMultiTransform.a

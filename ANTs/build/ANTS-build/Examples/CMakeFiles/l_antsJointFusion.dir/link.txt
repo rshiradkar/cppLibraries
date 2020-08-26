@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsJointFusion.a  CMakeFiles/l_antsJointFusion.dir/antsJointFusion.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsJointFusion.a

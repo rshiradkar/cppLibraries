@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsMotionCorrDiffusionDirection.a  CMakeFiles/l_antsMotionCorrDiffusionDirection.dir/antsMotionCorrDiffusionDirection.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsMotionCorrDiffusionDirection.a

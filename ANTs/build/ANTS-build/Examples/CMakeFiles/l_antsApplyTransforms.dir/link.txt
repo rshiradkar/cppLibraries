@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsApplyTransforms.a  CMakeFiles/l_antsApplyTransforms.dir/antsApplyTransforms.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsApplyTransforms.a

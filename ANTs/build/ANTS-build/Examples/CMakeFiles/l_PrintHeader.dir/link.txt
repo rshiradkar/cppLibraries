@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_PrintHeader.a  CMakeFiles/l_PrintHeader.dir/PrintHeader.cxx.o
+/usr/bin/ranlib ../../lib/libl_PrintHeader.a

@@ -1,0 +1,12 @@
+set(ITKKWSys_LOADED 1)
+set(ITKKWSys_ENABLE_SHARED "0")
+set(ITKKWSys_DEPENDS "")
+set(ITKKWSys_PUBLIC_DEPENDS "")
+set(ITKKWSys_TRANSITIVE_DEPENDS "")
+set(ITKKWSys_PRIVATE_DEPENDS "")
+set(ITKKWSys_LIBRARIES "itksys")
+set(ITKKWSys_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/KWSys/src")
+set(ITKKWSys_LIBRARY_DIRS "")
+set(ITKKWSys_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKKWSys_TARGETS_FILE "")
+

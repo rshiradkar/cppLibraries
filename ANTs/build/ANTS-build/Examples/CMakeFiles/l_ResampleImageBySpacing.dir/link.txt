@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ResampleImageBySpacing.a  CMakeFiles/l_ResampleImageBySpacing.dir/ResampleImageBySpacing.cxx.o
+/usr/bin/ranlib ../../lib/libl_ResampleImageBySpacing.a

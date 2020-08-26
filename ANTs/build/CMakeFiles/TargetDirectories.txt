@@ -1,0 +1,2 @@
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/CMakeFiles/ANTS.dir
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/CMakeFiles/ITKv4.dir

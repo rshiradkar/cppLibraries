@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_DenoiseImage.a  CMakeFiles/l_DenoiseImage.dir/DenoiseImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_DenoiseImage.a

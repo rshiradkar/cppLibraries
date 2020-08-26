@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTSUseLandmarkImagesToGetBSplineDisplacementField.a  CMakeFiles/l_ANTSUseLandmarkImagesToGetBSplineDisplacementField.dir/ANTSUseLandmarkImagesToGetBSplineDisplacementField.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTSUseLandmarkImagesToGetBSplineDisplacementField.a

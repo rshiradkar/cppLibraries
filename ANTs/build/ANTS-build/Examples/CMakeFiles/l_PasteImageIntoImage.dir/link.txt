@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_PasteImageIntoImage.a  CMakeFiles/l_PasteImageIntoImage.dir/PasteImageIntoImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_PasteImageIntoImage.a

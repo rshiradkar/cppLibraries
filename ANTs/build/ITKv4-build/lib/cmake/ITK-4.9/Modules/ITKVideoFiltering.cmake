@@ -1,0 +1,12 @@
+set(ITKVideoFiltering_LOADED 1)
+set(ITKVideoFiltering_ENABLE_SHARED "0")
+set(ITKVideoFiltering_DEPENDS "ITKVideoCore")
+set(ITKVideoFiltering_PUBLIC_DEPENDS "ITKVideoCore")
+set(ITKVideoFiltering_TRANSITIVE_DEPENDS "ITKVideoCore")
+set(ITKVideoFiltering_PRIVATE_DEPENDS "")
+set(ITKVideoFiltering_LIBRARIES "ITKVideoCore")
+set(ITKVideoFiltering_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Video/Filtering/include")
+set(ITKVideoFiltering_LIBRARY_DIRS "")
+set(ITKVideoFiltering_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKVideoFiltering_TARGETS_FILE "")
+

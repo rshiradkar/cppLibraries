@@ -1,0 +1,12 @@
+set(ITKNarrowBand_LOADED 1)
+set(ITKNarrowBand_ENABLE_SHARED "0")
+set(ITKNarrowBand_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_PUBLIC_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_TRANSITIVE_DEPENDS "ITKCurvatureFlow;ITKFiniteDifference;ITKImageIntensity")
+set(ITKNarrowBand_PRIVATE_DEPENDS "")
+set(ITKNarrowBand_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKNarrowBand_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/NarrowBand/include")
+set(ITKNarrowBand_LIBRARY_DIRS "")
+set(ITKNarrowBand_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKNarrowBand_TARGETS_FILE "")
+

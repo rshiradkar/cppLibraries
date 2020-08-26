@@ -1,0 +1,12 @@
+set(ITKTIFF_LOADED 1)
+set(ITKTIFF_ENABLE_SHARED "0")
+set(ITKTIFF_DEPENDS "ITKJPEG;ITKKWIML;ITKZLIB")
+set(ITKTIFF_PUBLIC_DEPENDS "ITKJPEG;ITKKWIML;ITKZLIB")
+set(ITKTIFF_TRANSITIVE_DEPENDS "ITKJPEG;ITKKWIML;ITKZLIB")
+set(ITKTIFF_PRIVATE_DEPENDS "")
+set(ITKTIFF_LIBRARIES "itktiff")
+set(ITKTIFF_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/TIFF/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/TIFF/src/itktiff;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src")
+set(ITKTIFF_LIBRARY_DIRS "")
+set(ITKTIFF_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKTIFF_TARGETS_FILE "")
+

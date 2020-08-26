@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ResampleImage.a  CMakeFiles/l_ResampleImage.dir/ResampleImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ResampleImage.a

@@ -1,0 +1,18 @@
+Performing C++ SOURCE FILE Test CXX_HAS_DISABLE_OPTIMIZATION_FLAG failed with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec898681323/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec898681323.dir/build.make CMakeFiles/cmTryCompileExec898681323.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec898681323.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel  -DCXX_HAS_DISABLE_OPTIMIZATION_FLAG   -o CMakeFiles/cmTryCompileExec898681323.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx:1: error: expected unqualified-id before ‘-’ token
+gmake[4]: *** [CMakeFiles/cmTryCompileExec898681323.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [cmTryCompileExec898681323/fast] Error 2
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+-O0

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_AverageImages.a  CMakeFiles/l_AverageImages.dir/AverageImages.cxx.o
+/usr/bin/ranlib ../../lib/libl_AverageImages.a

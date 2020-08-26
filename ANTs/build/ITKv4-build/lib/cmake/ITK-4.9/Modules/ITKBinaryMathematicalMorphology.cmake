@@ -1,0 +1,12 @@
+set(ITKBinaryMathematicalMorphology_LOADED 1)
+set(ITKBinaryMathematicalMorphology_ENABLE_SHARED "0")
+set(ITKBinaryMathematicalMorphology_DEPENDS "ITKLabelMap;ITKMathematicalMorphology")
+set(ITKBinaryMathematicalMorphology_PUBLIC_DEPENDS "")
+set(ITKBinaryMathematicalMorphology_TRANSITIVE_DEPENDS "ITKLabelMap;ITKMathematicalMorphology")
+set(ITKBinaryMathematicalMorphology_PRIVATE_DEPENDS "")
+set(ITKBinaryMathematicalMorphology_LIBRARIES "ITKLabelMap;ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKBinaryMathematicalMorphology_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/BinaryMathematicalMorphology/include")
+set(ITKBinaryMathematicalMorphology_LIBRARY_DIRS "")
+set(ITKBinaryMathematicalMorphology_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKBinaryMathematicalMorphology_TARGETS_FILE "")
+

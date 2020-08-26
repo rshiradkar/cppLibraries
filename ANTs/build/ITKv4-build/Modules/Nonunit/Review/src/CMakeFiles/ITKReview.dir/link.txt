@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKReview-4.9.a  CMakeFiles/ITKReview.dir/itkBruker2DSEQImageIO.cxx.o CMakeFiles/ITKReview.dir/itkBruker2DSEQImageIOFactory.cxx.o CMakeFiles/ITKReview.dir/itkJPEG2000ImageIO.cxx.o CMakeFiles/ITKReview.dir/itkJPEG2000ImageIOFactory.cxx.o CMakeFiles/ITKReview.dir/itkVoxBoCUBImageIO.cxx.o CMakeFiles/ITKReview.dir/itkVoxBoCUBImageIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKReview-4.9.a

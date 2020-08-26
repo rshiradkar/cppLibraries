@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTS.a  CMakeFiles/l_ANTS.dir/ANTS.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTS.a

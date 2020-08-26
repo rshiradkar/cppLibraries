@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ANTSUseDeformationFieldToGetAffineTransform.a  CMakeFiles/l_ANTSUseDeformationFieldToGetAffineTransform.dir/ANTSUseDeformationFieldToGetAffineTransform.cxx.o
+/usr/bin/ranlib ../../lib/libl_ANTSUseDeformationFieldToGetAffineTransform.a

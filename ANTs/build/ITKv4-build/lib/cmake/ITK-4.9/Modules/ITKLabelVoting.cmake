@@ -1,0 +1,12 @@
+set(ITKLabelVoting_LOADED 1)
+set(ITKLabelVoting_ENABLE_SHARED "0")
+set(ITKLabelVoting_DEPENDS "ITKThresholding")
+set(ITKLabelVoting_PUBLIC_DEPENDS "ITKThresholding")
+set(ITKLabelVoting_TRANSITIVE_DEPENDS "ITKThresholding")
+set(ITKLabelVoting_PRIVATE_DEPENDS "")
+set(ITKLabelVoting_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath")
+set(ITKLabelVoting_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Segmentation/LabelVoting/include")
+set(ITKLabelVoting_LIBRARY_DIRS "")
+set(ITKLabelVoting_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKLabelVoting_TARGETS_FILE "")
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTransformHDF5-4.9.a  CMakeFiles/ITKIOTransformHDF5.dir/itkHDF5TransformIO.cxx.o CMakeFiles/ITKIOTransformHDF5.dir/itkHDF5TransformIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTransformHDF5-4.9.a

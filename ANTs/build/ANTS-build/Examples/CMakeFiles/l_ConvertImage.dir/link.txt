@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ConvertImage.a  CMakeFiles/l_ConvertImage.dir/ConvertImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ConvertImage.a

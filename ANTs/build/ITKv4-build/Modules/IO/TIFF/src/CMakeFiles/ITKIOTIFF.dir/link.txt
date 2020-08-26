@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTIFF-4.9.a  CMakeFiles/ITKIOTIFF.dir/itkTIFFImageIO.cxx.o CMakeFiles/ITKIOTIFF.dir/itkTIFFReaderInternal.cxx.o CMakeFiles/ITKIOTIFF.dir/itkTIFFImageIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKIOTIFF-4.9.a

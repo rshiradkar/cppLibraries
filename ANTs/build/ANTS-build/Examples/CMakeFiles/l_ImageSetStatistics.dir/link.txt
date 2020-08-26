@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ImageSetStatistics.a  CMakeFiles/l_ImageSetStatistics.dir/ImageSetStatistics.cxx.o
+/usr/bin/ranlib ../../lib/libl_ImageSetStatistics.a

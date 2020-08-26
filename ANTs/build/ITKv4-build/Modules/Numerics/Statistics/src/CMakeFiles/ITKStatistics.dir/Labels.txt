@@ -1,0 +1,14 @@
+# Target labels
+ ITKStatistics
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkProbabilityDistribution.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkDenseFrequencyContainer2.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkSparseFrequencyContainer2.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkChiSquareDistribution.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkGaussianDistribution.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkTDistribution.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkNormalVariateGenerator.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkDecisionRule.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkMaximumDecisionRule.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkMaximumRatioDecisionRule.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Statistics/src/itkMinimumDecisionRule.cxx

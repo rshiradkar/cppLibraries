@@ -1,0 +1,12 @@
+set(ITKImageGrid_LOADED 1)
+set(ITKImageGrid_ENABLE_SHARED "0")
+set(ITKImageGrid_DEPENDS "ITKImageFunction")
+set(ITKImageGrid_PUBLIC_DEPENDS "")
+set(ITKImageGrid_TRANSITIVE_DEPENDS "ITKImageFunction")
+set(ITKImageGrid_PRIVATE_DEPENDS "")
+set(ITKImageGrid_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform")
+set(ITKImageGrid_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/ImageGrid/include")
+set(ITKImageGrid_LIBRARY_DIRS "")
+set(ITKImageGrid_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKImageGrid_TARGETS_FILE "")
+

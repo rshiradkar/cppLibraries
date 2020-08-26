@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ImageCompare.a  CMakeFiles/l_ImageCompare.dir/ImageCompare.cxx.o
+/usr/bin/ranlib ../../lib/libl_ImageCompare.a

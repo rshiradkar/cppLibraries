@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SmoothDisplacementField.a  CMakeFiles/l_SmoothDisplacementField.dir/SmoothDisplacementField.cxx.o
+/usr/bin/ranlib ../../lib/libl_SmoothDisplacementField.a

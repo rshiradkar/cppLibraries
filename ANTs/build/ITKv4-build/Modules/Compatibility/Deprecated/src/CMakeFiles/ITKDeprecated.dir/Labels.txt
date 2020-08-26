@@ -1,0 +1,10 @@
+# Target labels
+ ITKDeprecated
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkAnalyzeImageIO.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkAnalyzeImageIOFactory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkDICOMImageIO2.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkDICOMImageIO2Factory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkDicomImageIOFactory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkDICOMSeriesFileNames.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Compatibility/Deprecated/src/itkSemaphore.cxx

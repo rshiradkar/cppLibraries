@@ -1,0 +1,12 @@
+set(ITKPDEDeformableRegistration_LOADED 1)
+set(ITKPDEDeformableRegistration_ENABLE_SHARED "0")
+set(ITKPDEDeformableRegistration_DEPENDS "ITKFiniteDifference;ITKRegistrationCommon")
+set(ITKPDEDeformableRegistration_PUBLIC_DEPENDS "ITKFiniteDifference;ITKRegistrationCommon")
+set(ITKPDEDeformableRegistration_TRANSITIVE_DEPENDS "ITKFiniteDifference;ITKRegistrationCommon")
+set(ITKPDEDeformableRegistration_PRIVATE_DEPENDS "")
+set(ITKPDEDeformableRegistration_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform;ITKSpatialObjects;ITKPath;ITKMesh;ITKOptimizers")
+set(ITKPDEDeformableRegistration_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Registration/PDEDeformable/include")
+set(ITKPDEDeformableRegistration_LIBRARY_DIRS "")
+set(ITKPDEDeformableRegistration_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKPDEDeformableRegistration_TARGETS_FILE "")
+

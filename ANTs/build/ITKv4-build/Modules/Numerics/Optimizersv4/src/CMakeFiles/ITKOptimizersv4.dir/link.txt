@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKOptimizersv4-4.9.a  CMakeFiles/ITKOptimizersv4.dir/itkSingleValuedNonLinearVnlOptimizerv4.cxx.o CMakeFiles/ITKOptimizersv4.dir/itkSingleValuedVnlCostFunctionAdaptorv4.cxx.o CMakeFiles/ITKOptimizersv4.dir/itkLBFGSOptimizerv4.cxx.o CMakeFiles/ITKOptimizersv4.dir/itkLBFGSBOptimizerv4.cxx.o CMakeFiles/ITKOptimizersv4.dir/itkAmoebaOptimizerv4.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKOptimizersv4-4.9.a

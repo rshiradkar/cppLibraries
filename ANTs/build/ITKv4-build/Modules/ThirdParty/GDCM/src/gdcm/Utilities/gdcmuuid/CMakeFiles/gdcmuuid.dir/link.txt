@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libitkgdcmuuid-4.9.a  CMakeFiles/gdcmuuid.dir/compare.c.o CMakeFiles/gdcmuuid.dir/gen_uuid.c.o CMakeFiles/gdcmuuid.dir/pack.c.o CMakeFiles/gdcmuuid.dir/parse.c.o CMakeFiles/gdcmuuid.dir/unpack.c.o CMakeFiles/gdcmuuid.dir/unparse.c.o CMakeFiles/gdcmuuid.dir/uuid_time.c.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libitkgdcmuuid-4.9.a

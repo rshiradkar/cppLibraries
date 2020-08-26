@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_WarpImageMultiTransform.a  CMakeFiles/l_WarpImageMultiTransform.dir/WarpImageMultiTransform.cxx.o
+/usr/bin/ranlib ../../lib/libl_WarpImageMultiTransform.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKVideoIO-4.9.a  CMakeFiles/ITKVideoIO.dir/itkFileListVideoIO.cxx.o CMakeFiles/ITKVideoIO.dir/itkFileListVideoIOFactory.cxx.o CMakeFiles/ITKVideoIO.dir/itkVideoIOBase.cxx.o CMakeFiles/ITKVideoIO.dir/itkVideoIOFactory.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKVideoIO-4.9.a

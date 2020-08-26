@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_SuperResolution.a  CMakeFiles/l_SuperResolution.dir/SuperResolution.cxx.o
+/usr/bin/ranlib ../../lib/libl_SuperResolution.a

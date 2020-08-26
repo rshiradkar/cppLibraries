@@ -1,0 +1,21 @@
+# Target labels
+ ITKDoubleConversion
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/bignum.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/bignum-dtoa.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/cached-powers.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/diy-fp.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/double-conversion.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/fast-dtoa.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/fixed-dtoa.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/strtod.cc
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/bignum.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/cached-powers.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/diy-fp.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/double-conversion.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/fast-dtoa.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/fixed-dtoa.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/ieee.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/strtod.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DoubleConversion/src/double-conversion/utils.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/DoubleConversion/src/double-conversion/double-conversion-configure.h

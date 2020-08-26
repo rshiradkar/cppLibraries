@@ -1,0 +1,12 @@
+set(ITKZLIB_LOADED 1)
+set(ITKZLIB_ENABLE_SHARED "0")
+set(ITKZLIB_DEPENDS "")
+set(ITKZLIB_PUBLIC_DEPENDS "")
+set(ITKZLIB_TRANSITIVE_DEPENDS "")
+set(ITKZLIB_PRIVATE_DEPENDS "")
+set(ITKZLIB_LIBRARIES "itkzlib")
+set(ITKZLIB_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/ZLIB/src;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/ZLIB/src")
+set(ITKZLIB_LIBRARY_DIRS "")
+set(ITKZLIB_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKZLIB_TARGETS_FILE "")
+

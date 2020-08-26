@@ -1,0 +1,12 @@
+set(ITKNrrdIO_LOADED 1)
+set(ITKNrrdIO_ENABLE_SHARED "0")
+set(ITKNrrdIO_DEPENDS "ITKZLIB")
+set(ITKNrrdIO_PUBLIC_DEPENDS "ITKZLIB")
+set(ITKNrrdIO_TRANSITIVE_DEPENDS "ITKZLIB")
+set(ITKNrrdIO_PRIVATE_DEPENDS "")
+set(ITKNrrdIO_LIBRARIES "ITKNrrdIO")
+set(ITKNrrdIO_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/NrrdIO/src/NrrdIO;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/NrrdIO/src/NrrdIO")
+set(ITKNrrdIO_LIBRARY_DIRS "")
+set(ITKNrrdIO_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKNrrdIO_TARGETS_FILE "")
+

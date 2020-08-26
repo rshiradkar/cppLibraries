@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ExtractRegionFromImage.a  CMakeFiles/l_ExtractRegionFromImage.dir/ExtractRegionFromImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ExtractRegionFromImage.a

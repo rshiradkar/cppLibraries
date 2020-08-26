@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKSpatialObjects-4.9.a  CMakeFiles/ITKSpatialObjects.dir/itkMetaEvent.cxx.o CMakeFiles/ITKSpatialObjects.dir/itkCylinderSpatialObject.cxx.o CMakeFiles/ITKSpatialObjects.dir/itkSpatialObjectFactoryBase.cxx.o CMakeFiles/ITKSpatialObjects.dir/itkArrowSpatialObject.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKSpatialObjects-4.9.a

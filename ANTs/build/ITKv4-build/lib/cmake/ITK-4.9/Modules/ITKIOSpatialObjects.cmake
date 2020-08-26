@@ -1,0 +1,12 @@
+set(ITKIOSpatialObjects_LOADED 1)
+set(ITKIOSpatialObjects_ENABLE_SHARED "0")
+set(ITKIOSpatialObjects_DEPENDS "ITKIOXML;ITKMesh;ITKSpatialObjects")
+set(ITKIOSpatialObjects_PUBLIC_DEPENDS "")
+set(ITKIOSpatialObjects_TRANSITIVE_DEPENDS "")
+set(ITKIOSpatialObjects_PRIVATE_DEPENDS "ITKIOXML;ITKMesh;ITKSpatialObjects")
+set(ITKIOSpatialObjects_LIBRARIES "ITKIOSpatialObjects")
+set(ITKIOSpatialObjects_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/SpatialObjects/include")
+set(ITKIOSpatialObjects_LIBRARY_DIRS "")
+set(ITKIOSpatialObjects_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKIOSpatialObjects_TARGETS_FILE "")
+

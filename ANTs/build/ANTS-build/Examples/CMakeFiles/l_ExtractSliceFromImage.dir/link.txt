@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_ExtractSliceFromImage.a  CMakeFiles/l_ExtractSliceFromImage.dir/ExtractSliceFromImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_ExtractSliceFromImage.a

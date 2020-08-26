@@ -1,0 +1,12 @@
+set(ITKOpenJPEG_LOADED 1)
+set(ITKOpenJPEG_ENABLE_SHARED "0")
+set(ITKOpenJPEG_DEPENDS "")
+set(ITKOpenJPEG_PUBLIC_DEPENDS "")
+set(ITKOpenJPEG_TRANSITIVE_DEPENDS "")
+set(ITKOpenJPEG_PRIVATE_DEPENDS "")
+set(ITKOpenJPEG_LIBRARIES "itkopenjpeg")
+set(ITKOpenJPEG_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/OpenJPEG/src/openjpeg;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/OpenJPEG/src/openjpeg")
+set(ITKOpenJPEG_LIBRARY_DIRS "")
+set(ITKOpenJPEG_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKOpenJPEG_TARGETS_FILE "")
+

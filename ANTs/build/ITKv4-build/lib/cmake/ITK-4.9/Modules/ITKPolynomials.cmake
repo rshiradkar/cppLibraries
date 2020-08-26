@@ -1,0 +1,12 @@
+set(ITKPolynomials_LOADED 1)
+set(ITKPolynomials_ENABLE_SHARED "1")
+set(ITKPolynomials_DEPENDS "ITKCommon")
+set(ITKPolynomials_PUBLIC_DEPENDS "ITKCommon")
+set(ITKPolynomials_TRANSITIVE_DEPENDS "ITKCommon")
+set(ITKPolynomials_PRIVATE_DEPENDS "")
+set(ITKPolynomials_LIBRARIES "ITKPolynomials")
+set(ITKPolynomials_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Numerics/Polynomials/include")
+set(ITKPolynomials_LIBRARY_DIRS "")
+set(ITKPolynomials_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKPolynomials_TARGETS_FILE "")
+

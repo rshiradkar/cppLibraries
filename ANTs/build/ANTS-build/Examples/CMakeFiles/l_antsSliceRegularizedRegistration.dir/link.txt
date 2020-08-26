@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsSliceRegularizedRegistration.a  CMakeFiles/l_antsSliceRegularizedRegistration.dir/antsSliceRegularizedRegistration.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsSliceRegularizedRegistration.a

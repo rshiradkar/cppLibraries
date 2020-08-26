@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_RebaseTensorImage.a  CMakeFiles/l_RebaseTensorImage.dir/RebaseTensorImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_RebaseTensorImage.a

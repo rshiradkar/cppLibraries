@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_StackSlices.a  CMakeFiles/l_StackSlices.dir/StackSlices.cxx.o
+/usr/bin/ranlib ../../lib/libl_StackSlices.a

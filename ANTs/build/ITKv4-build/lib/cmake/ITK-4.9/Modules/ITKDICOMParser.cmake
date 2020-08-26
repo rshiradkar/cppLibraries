@@ -1,0 +1,12 @@
+set(ITKDICOMParser_LOADED 1)
+set(ITKDICOMParser_ENABLE_SHARED "0")
+set(ITKDICOMParser_DEPENDS "")
+set(ITKDICOMParser_PUBLIC_DEPENDS "")
+set(ITKDICOMParser_TRANSITIVE_DEPENDS "")
+set(ITKDICOMParser_PRIVATE_DEPENDS "")
+set(ITKDICOMParser_LIBRARIES "ITKDICOMParser")
+set(ITKDICOMParser_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/DICOMParser/src/DICOMParser;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/DICOMParser/src/DICOMParser")
+set(ITKDICOMParser_LIBRARY_DIRS "")
+set(ITKDICOMParser_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKDICOMParser_TARGETS_FILE "")
+

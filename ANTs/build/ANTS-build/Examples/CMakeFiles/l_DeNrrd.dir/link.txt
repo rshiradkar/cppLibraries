@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_DeNrrd.a  CMakeFiles/l_DeNrrd.dir/DeNrrd.cxx.o
+/usr/bin/ranlib ../../lib/libl_DeNrrd.a

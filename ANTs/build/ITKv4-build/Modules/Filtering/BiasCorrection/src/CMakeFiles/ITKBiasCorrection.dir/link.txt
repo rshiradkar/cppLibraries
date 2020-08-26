@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKBiasCorrection-4.9.a  CMakeFiles/ITKBiasCorrection.dir/itkCompositeValleyFunction.cxx.o CMakeFiles/ITKBiasCorrection.dir/itkCacheableScalarFunction.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKBiasCorrection-4.9.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_PermuteFlipImageOrientationAxes.a  CMakeFiles/l_PermuteFlipImageOrientationAxes.dir/PermuteFlipImageOrientationAxes.cxx.o
+/usr/bin/ranlib ../../lib/libl_PermuteFlipImageOrientationAxes.a

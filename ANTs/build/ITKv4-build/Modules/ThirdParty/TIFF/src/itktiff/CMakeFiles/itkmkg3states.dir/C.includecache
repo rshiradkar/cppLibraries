@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^(itk|tif|fax|port|uv|tconf|t4|mk|itkjpeg|jpeg|mangle|jconfig|jmorecfg).*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/KWIML/src/itkkwiml/abi.h
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/KWIML/src/itkkwiml/int.h
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/itk_tiff_mangle.h
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/mkg3states.c
+tif_config.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tif_config.h
+tif_fax3.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tif_fax3.h
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tif_fax3.h
+tiff.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tiff.h
+
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tiff.h
+itk_tiff_mangle.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/itk_tiff_mangle.h
+tif_config.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/TIFF/src/itktiff/tif_config.h
+
+Modules/ThirdParty/KWIML/src/itk_kwiml.h
+itkkwiml/abi.h
+Modules/ThirdParty/KWIML/src/itkkwiml/abi.h
+itkkwiml/int.h
+Modules/ThirdParty/KWIML/src/itkkwiml/int.h
+
+Modules/ThirdParty/TIFF/src/itktiff/tif_config.h
+itk_kwiml.h
+Modules/ThirdParty/TIFF/src/itktiff/itk_kwiml.h
+

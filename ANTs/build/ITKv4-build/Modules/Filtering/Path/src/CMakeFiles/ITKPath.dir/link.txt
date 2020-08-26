@@ -1,0 +1,2 @@
+/usr/bin/ar cr /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKPath-4.9.a  CMakeFiles/ITKPath.dir/itkChainCodePath2D.cxx.o CMakeFiles/ITKPath.dir/itkOrthogonallyCorrected2DParametricPath.cxx.o CMakeFiles/ITKPath.dir/itkParametricPath.cxx.o
+/usr/bin/ranlib /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib/libITKPath-4.9.a

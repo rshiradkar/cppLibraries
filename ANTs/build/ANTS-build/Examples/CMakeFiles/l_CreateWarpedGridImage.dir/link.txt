@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_CreateWarpedGridImage.a  CMakeFiles/l_CreateWarpedGridImage.dir/CreateWarpedGridImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_CreateWarpedGridImage.a

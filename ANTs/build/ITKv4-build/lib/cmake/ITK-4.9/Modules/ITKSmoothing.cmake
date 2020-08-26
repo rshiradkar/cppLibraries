@@ -1,0 +1,12 @@
+set(ITKSmoothing_LOADED 1)
+set(ITKSmoothing_ENABLE_SHARED "0")
+set(ITKSmoothing_DEPENDS "ITKImageFunction")
+set(ITKSmoothing_PUBLIC_DEPENDS "")
+set(ITKSmoothing_TRANSITIVE_DEPENDS "ITKImageFunction")
+set(ITKSmoothing_PRIVATE_DEPENDS "")
+set(ITKSmoothing_LIBRARIES "ITKCommon;ITKStatistics;ITKTransform")
+set(ITKSmoothing_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/Smoothing/include")
+set(ITKSmoothing_LIBRARY_DIRS "")
+set(ITKSmoothing_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKSmoothing_TARGETS_FILE "")
+

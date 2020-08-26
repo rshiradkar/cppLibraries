@@ -1,0 +1,6 @@
+# Target labels
+ ITKIOMRC
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/MRC/src/itkMRCHeaderObject.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/MRC/src/itkMRCImageIO.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/MRC/src/itkMRCImageIOFactory.cxx

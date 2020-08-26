@@ -1,0 +1,27 @@
+/**
+ \defgroup ITKDeprecated Module ITKDeprecated 
+ This is a collection of classes that are intended to be
+removed from the toolkit. 
+ \par Dependencies:
+ \li \ref ITKCommon 
+ \li \ref ITKDICOMParser 
+ \li \ref ITKIOGDCM 
+ \li \ref ITKIOImageBase 
+ \li \ref ITKMesh 
+ \li \ref ITKNIFTI 
+ \li \ref ITKV3Compatibility 
+ \li \ref ITKZLIB 
+ \dot 
+ graph "ITKDeprecated" { 
+ "ITKDeprecated" -- "ITKCommon"; 
+ "ITKDeprecated" -- "ITKDICOMParser"; 
+ "ITKDeprecated" -- "ITKIOGDCM"; 
+ "ITKDeprecated" -- "ITKIOImageBase"; 
+ "ITKDeprecated" -- "ITKMesh"; 
+ "ITKDeprecated" -- "ITKNIFTI"; 
+ "ITKDeprecated" -- "ITKV3Compatibility"; 
+ "ITKDeprecated" -- "ITKZLIB"; 
+ } 
+ \enddot 
+ */
+

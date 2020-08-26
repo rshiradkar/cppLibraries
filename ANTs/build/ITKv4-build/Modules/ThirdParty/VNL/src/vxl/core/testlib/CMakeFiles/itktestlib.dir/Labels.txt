@@ -1,0 +1,9 @@
+# Target labels
+ ITKVNL
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_test.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_test.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_register.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_main.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_root_dir.h
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core/testlib/testlib_root_dir.cxx

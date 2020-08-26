@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsAffineInitializer.a  CMakeFiles/l_antsAffineInitializer.dir/antsAffineInitializer.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsAffineInitializer.a

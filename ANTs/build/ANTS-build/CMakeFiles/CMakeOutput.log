@@ -1,0 +1,873 @@
+The system is: Linux - 2.6.32-573.18.1.el6.x86_64 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: ;;-Wno-uninitialized;-Wno-unused-parameter;-Wall;-Wcast-align;-Wdisabled-optimization;-Wextra;-Wformat=2;-Winvalid-pch;-Wno-format-nonliteral;-Wpointer-arith;-Wshadow;-Wunused;-Wwrite-strings;-funit-at-a-time;-Wno-strict-overflow;-fPIC
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/2.8.10.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: ;;-Wall;-Wcast-align;-Wdisabled-optimization;-Wextra;-Wformat=2;-Winvalid-pch;-Wno-format-nonliteral;-Wpointer-arith;-Wshadow;-Wunused;-Wwrite-strings;-funit-at-a-time;-Wno-strict-overflow;-Wno-deprecated;-Wno-invalid-offsetof;-Woverloaded-virtual;-Wstrict-null-sentinel;-fPIC
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/2.8.10.2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1458124467/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1458124467.dir/build.make CMakeFiles/cmTryCompileExec1458124467.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1458124467.dir/testCCompiler.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC     -o CMakeFiles/cmTryCompileExec1458124467.dir/testCCompiler.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec1458124467
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1458124467.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC      CMakeFiles/cmTryCompileExec1458124467.dir/testCCompiler.c.o  -o cmTryCompileExec1458124467 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec65197745/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec65197745.dir/build.make CMakeFiles/cmTryCompileExec65197745.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC     -o CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o   -c /usr/local/cmake/2.8.10.2/share/cmake-2.8/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec65197745
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec65197745.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC    -v CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec65197745 -rdynamic  
+Using built-in specs.
+Target: x86_64-redhat-linux
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread model: posix
+gcc version 4.4.7 20120313 (Red Hat 4.4.7-16) (GCC) 
+COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/
+LIBRARY_PATH=/usr/local/gcc/4.7.3/lib64/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/local/gcc/4.7.3/lib64/:/usr/local/openmpi/1.6.3/lib/:/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wno-uninitialized' '-Wno-unused-parameter' '-Wall' '-Wcast-align' '-Wdisabled-optimization' '-Wextra' '-Wformat=2' '-Winvalid-pch' '-Wno-format-nonliteral' '-Wpointer-arith' '-Wshadow' '-Wunused' '-Wwrite-strings' '-funit-at-a-time' '-Wno-strict-overflow' '-fPIC' '-v' '-o' 'cmTryCompileExec65197745' '-rdynamic' '-mtune=generic'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec65197745 /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o -L/usr/local/gcc/4.7.3/lib64/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/local/gcc/4.7.3/lib64 -L/usr/local/openmpi/1.6.3/lib -L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec65197745/fast"]
+  ignore line: [gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec65197745.dir/build.make CMakeFiles/cmTryCompileExec65197745.dir/build]
+  ignore line: [gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC     -o CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o   -c /usr/local/cmake/2.8.10.2/share/cmake-2.8/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec65197745]
+  ignore line: [/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec65197745.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC    -v CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec65197745 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Target: x86_64-redhat-linux]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.4.7 20120313 (Red Hat 4.4.7-16) (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/]
+  ignore line: [LIBRARY_PATH=/usr/local/gcc/4.7.3/lib64/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/local/gcc/4.7.3/lib64/:/usr/local/openmpi/1.6.3/lib/:/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wno-uninitialized' '-Wno-unused-parameter' '-Wall' '-Wcast-align' '-Wdisabled-optimization' '-Wextra' '-Wformat=2' '-Winvalid-pch' '-Wno-format-nonliteral' '-Wpointer-arith' '-Wshadow' '-Wunused' '-Wwrite-strings' '-funit-at-a-time' '-Wno-strict-overflow' '-fPIC' '-v' '-o' 'cmTryCompileExec65197745' '-rdynamic' '-mtune=generic']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec65197745 /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o -L/usr/local/gcc/4.7.3/lib64/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/local/gcc/4.7.3/lib64 -L/usr/local/openmpi/1.6.3/lib -L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec65197745] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o] ==> ignore
+    arg [-L/usr/local/gcc/4.7.3/lib64/../lib64] ==> dir [/usr/local/gcc/4.7.3/lib64/../lib64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/local/gcc/4.7.3/lib64] ==> dir [/usr/local/gcc/4.7.3/lib64]
+    arg [-L/usr/local/openmpi/1.6.3/lib] ==> dir [/usr/local/openmpi/1.6.3/lib]
+    arg [-L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64] ==> dir [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..]
+    arg [CMakeFiles/cmTryCompileExec65197745.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse dir [/usr/local/gcc/4.7.3/lib64/../lib64] ==> [/usr/local/gcc/4.7.3/lib64]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64] ==> [/usr/lib64]
+  collapse dir [/lib/../lib64] ==> [/lib64]
+  collapse dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse dir [/usr/local/gcc/4.7.3/lib64] ==> [/usr/local/gcc/4.7.3/lib64]
+  collapse dir [/usr/local/openmpi/1.6.3/lib] ==> [/usr/local/openmpi/1.6.3/lib]
+  collapse dir [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64] ==> [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..] ==> [/usr/lib]
+  implicit libs: [c]
+  implicit dirs: [/usr/local/gcc/4.7.3/lib64;/usr/lib/gcc/x86_64-redhat-linux/4.4.7;/usr/lib64;/lib64;/usr/local/openmpi/1.6.3/lib;/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64;/usr/lib]
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2449819389/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2449819389.dir/build.make CMakeFiles/cmTryCompileExec2449819389.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2449819389.dir/testCXXCompiler.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC     -o CMakeFiles/cmTryCompileExec2449819389.dir/testCXXCompiler.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec2449819389
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2449819389.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC      CMakeFiles/cmTryCompileExec2449819389.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec2449819389 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4022599659/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4022599659.dir/build.make CMakeFiles/cmTryCompileExec4022599659.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC     -o CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/cmake/2.8.10.2/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec4022599659
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4022599659.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC    -v CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec4022599659 -rdynamic  
+Using built-in specs.
+Target: x86_64-redhat-linux
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread model: posix
+gcc version 4.4.7 20120313 (Red Hat 4.4.7-16) (GCC) 
+COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/
+LIBRARY_PATH=/usr/local/gcc/4.7.3/lib64/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/local/gcc/4.7.3/lib64/:/usr/local/openmpi/1.6.3/lib/:/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wall' '-Wcast-align' '-Wdisabled-optimization' '-Wextra' '-Wformat=2' '-Winvalid-pch' '-Wno-format-nonliteral' '-Wpointer-arith' '-Wshadow' '-Wunused' '-Wwrite-strings' '-funit-at-a-time' '-Wno-strict-overflow' '-Wno-deprecated' '-Wno-invalid-offsetof' '-Woverloaded-virtual' '-Wstrict-null-sentinel' '-fPIC' '-v' '-o' 'cmTryCompileExec4022599659' '-rdynamic' '-shared-libgcc' '-mtune=generic'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec4022599659 /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o -L/usr/local/gcc/4.7.3/lib64/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/local/gcc/4.7.3/lib64 -L/usr/local/openmpi/1.6.3/lib -L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec4022599659/fast"]
+  ignore line: [gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4022599659.dir/build.make CMakeFiles/cmTryCompileExec4022599659.dir/build]
+  ignore line: [gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC     -o CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/cmake/2.8.10.2/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec4022599659]
+  ignore line: [/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4022599659.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC    -v CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec4022599659 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Target: x86_64-redhat-linux]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.4.7 20120313 (Red Hat 4.4.7-16) (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/]
+  ignore line: [LIBRARY_PATH=/usr/local/gcc/4.7.3/lib64/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/local/gcc/4.7.3/lib64/:/usr/local/openmpi/1.6.3/lib/:/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-Wcast-align' '-Wdisabled-optimization' '-Wextra' '-Wformat=2' '-Winvalid-pch' '-Wno-format-nonliteral' '-Wpointer-arith' '-Wshadow' '-Wunused' '-Wwrite-strings' '-funit-at-a-time' '-Wno-strict-overflow' '-Wno-deprecated' '-Wno-invalid-offsetof' '-Woverloaded-virtual' '-Wstrict-null-sentinel' '-fPIC' '-v' '-o' 'cmTryCompileExec4022599659' '-rdynamic' '-shared-libgcc' '-mtune=generic']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec4022599659 /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o -L/usr/local/gcc/4.7.3/lib64/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/local/gcc/4.7.3/lib64 -L/usr/local/openmpi/1.6.3/lib -L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec4022599659] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtbegin.o] ==> ignore
+    arg [-L/usr/local/gcc/4.7.3/lib64/../lib64] ==> dir [/usr/local/gcc/4.7.3/lib64/../lib64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/local/gcc/4.7.3/lib64] ==> dir [/usr/local/gcc/4.7.3/lib64]
+    arg [-L/usr/local/openmpi/1.6.3/lib] ==> dir [/usr/local/openmpi/1.6.3/lib]
+    arg [-L/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64] ==> dir [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..]
+    arg [CMakeFiles/cmTryCompileExec4022599659.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse dir [/usr/local/gcc/4.7.3/lib64/../lib64] ==> [/usr/local/gcc/4.7.3/lib64]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.7]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64] ==> [/usr/lib64]
+  collapse dir [/lib/../lib64] ==> [/lib64]
+  collapse dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse dir [/usr/local/gcc/4.7.3/lib64] ==> [/usr/local/gcc/4.7.3/lib64]
+  collapse dir [/usr/local/openmpi/1.6.3/lib] ==> [/usr/local/openmpi/1.6.3/lib]
+  collapse dir [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64] ==> [/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64]
+  collapse dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;c]
+  implicit dirs: [/usr/local/gcc/4.7.3/lib64;/usr/lib/gcc/x86_64-redhat-linux/4.4.7;/usr/lib64;/lib64;/usr/local/openmpi/1.6.3/lib;/usr/local/intel/2013/composer_xe_2013.5.192/compiler/lib/intel64;/usr/lib]
+
+
+Performing C SOURCE FILE Test C_HAS_WARNING-Wno-uninitialized succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2964012138/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2964012138.dir/build.make CMakeFiles/cmTryCompileExec2964012138.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2964012138.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-uninitialized   -Wno-uninitialized -o CMakeFiles/cmTryCompileExec2964012138.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2964012138
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2964012138.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-uninitialized    CMakeFiles/cmTryCompileExec2964012138.dir/src.c.o  -o cmTryCompileExec2964012138 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wno-unused-parameter succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3629451009/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3629451009.dir/build.make CMakeFiles/cmTryCompileExec3629451009.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3629451009.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-unused-parameter   -Wno-unused-parameter -o CMakeFiles/cmTryCompileExec3629451009.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec3629451009
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3629451009.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-unused-parameter    CMakeFiles/cmTryCompileExec3629451009.dir/src.c.o  -o cmTryCompileExec3629451009 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wall succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2810192110/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2810192110.dir/build.make CMakeFiles/cmTryCompileExec2810192110.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2810192110.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wall   -Wall -o CMakeFiles/cmTryCompileExec2810192110.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2810192110
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2810192110.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wall    CMakeFiles/cmTryCompileExec2810192110.dir/src.c.o  -o cmTryCompileExec2810192110 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wcast-align succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2653216008/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2653216008.dir/build.make CMakeFiles/cmTryCompileExec2653216008.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2653216008.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wcast-align   -Wcast-align -o CMakeFiles/cmTryCompileExec2653216008.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2653216008
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2653216008.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wcast-align    CMakeFiles/cmTryCompileExec2653216008.dir/src.c.o  -o cmTryCompileExec2653216008 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wdisabled-optimization succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1610137255/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1610137255.dir/build.make CMakeFiles/cmTryCompileExec1610137255.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1610137255.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wdisabled-optimization   -Wdisabled-optimization -o CMakeFiles/cmTryCompileExec1610137255.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec1610137255
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1610137255.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wdisabled-optimization    CMakeFiles/cmTryCompileExec1610137255.dir/src.c.o  -o cmTryCompileExec1610137255 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wextra succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2317162594/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2317162594.dir/build.make CMakeFiles/cmTryCompileExec2317162594.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2317162594.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wextra   -Wextra -o CMakeFiles/cmTryCompileExec2317162594.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2317162594
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2317162594.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wextra    CMakeFiles/cmTryCompileExec2317162594.dir/src.c.o  -o cmTryCompileExec2317162594 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wformat=2 succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3153527338/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3153527338.dir/build.make CMakeFiles/cmTryCompileExec3153527338.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3153527338.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wformat=2   -Wformat=2 -o CMakeFiles/cmTryCompileExec3153527338.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec3153527338
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3153527338.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wformat=2    CMakeFiles/cmTryCompileExec3153527338.dir/src.c.o  -o cmTryCompileExec3153527338 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Winvalid-pch succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2713576454/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2713576454.dir/build.make CMakeFiles/cmTryCompileExec2713576454.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2713576454.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Winvalid-pch   -Winvalid-pch -o CMakeFiles/cmTryCompileExec2713576454.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2713576454
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2713576454.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Winvalid-pch    CMakeFiles/cmTryCompileExec2713576454.dir/src.c.o  -o cmTryCompileExec2713576454 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wno-format-nonliteral succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4042448808/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4042448808.dir/build.make CMakeFiles/cmTryCompileExec4042448808.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4042448808.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-format-nonliteral   -Wno-format-nonliteral -o CMakeFiles/cmTryCompileExec4042448808.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec4042448808
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4042448808.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-format-nonliteral    CMakeFiles/cmTryCompileExec4042448808.dir/src.c.o  -o cmTryCompileExec4042448808 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wpointer-arith succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3010266896/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3010266896.dir/build.make CMakeFiles/cmTryCompileExec3010266896.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3010266896.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wpointer-arith   -Wpointer-arith -o CMakeFiles/cmTryCompileExec3010266896.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec3010266896
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3010266896.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wpointer-arith    CMakeFiles/cmTryCompileExec3010266896.dir/src.c.o  -o cmTryCompileExec3010266896 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wshadow succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2993251041/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2993251041.dir/build.make CMakeFiles/cmTryCompileExec2993251041.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2993251041.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wshadow   -Wshadow -o CMakeFiles/cmTryCompileExec2993251041.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2993251041
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2993251041.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wshadow    CMakeFiles/cmTryCompileExec2993251041.dir/src.c.o  -o cmTryCompileExec2993251041 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wunused succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec694530053/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec694530053.dir/build.make CMakeFiles/cmTryCompileExec694530053.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec694530053.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wunused   -Wunused -o CMakeFiles/cmTryCompileExec694530053.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec694530053
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec694530053.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wunused    CMakeFiles/cmTryCompileExec694530053.dir/src.c.o  -o cmTryCompileExec694530053 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wwrite-strings succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2033372914/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2033372914.dir/build.make CMakeFiles/cmTryCompileExec2033372914.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2033372914.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wwrite-strings   -Wwrite-strings -o CMakeFiles/cmTryCompileExec2033372914.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec2033372914
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2033372914.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wwrite-strings    CMakeFiles/cmTryCompileExec2033372914.dir/src.c.o  -o cmTryCompileExec2033372914 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-funit-at-a-time succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1189808228/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1189808228.dir/build.make CMakeFiles/cmTryCompileExec1189808228.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1189808228.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-funit-at-a-time   -funit-at-a-time -o CMakeFiles/cmTryCompileExec1189808228.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec1189808228
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1189808228.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-funit-at-a-time    CMakeFiles/cmTryCompileExec1189808228.dir/src.c.o  -o cmTryCompileExec1189808228 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_HAS_WARNING-Wno-strict-overflow succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3679770477/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3679770477.dir/build.make CMakeFiles/cmTryCompileExec3679770477.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3679770477.dir/src.c.o
+/usr/bin/cc   -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-strict-overflow   -Wno-strict-overflow -o CMakeFiles/cmTryCompileExec3679770477.dir/src.c.o   -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: missing whitespace after the macro name
+Linking C executable cmTryCompileExec3679770477
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3679770477.dir/link.txt --verbose=1
+/usr/bin/cc     -Wno-uninitialized -Wno-unused-parameter -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -fPIC  -DC_HAS_WARNING-Wno-strict-overflow    CMakeFiles/cmTryCompileExec3679770477.dir/src.c.o  -o cmTryCompileExec3679770477 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wall succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec212233616/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec212233616.dir/build.make CMakeFiles/cmTryCompileExec212233616.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec212233616.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wall   -Wall -o CMakeFiles/cmTryCompileExec212233616.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec212233616
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec212233616.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wall    CMakeFiles/cmTryCompileExec212233616.dir/src.cxx.o  -o cmTryCompileExec212233616 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wcast-align succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1866727647/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1866727647.dir/build.make CMakeFiles/cmTryCompileExec1866727647.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1866727647.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wcast-align   -Wcast-align -o CMakeFiles/cmTryCompileExec1866727647.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1866727647
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1866727647.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wcast-align    CMakeFiles/cmTryCompileExec1866727647.dir/src.cxx.o  -o cmTryCompileExec1866727647 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wdisabled-optimization succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1649975482/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1649975482.dir/build.make CMakeFiles/cmTryCompileExec1649975482.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1649975482.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wdisabled-optimization   -Wdisabled-optimization -o CMakeFiles/cmTryCompileExec1649975482.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1649975482
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1649975482.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wdisabled-optimization    CMakeFiles/cmTryCompileExec1649975482.dir/src.cxx.o  -o cmTryCompileExec1649975482 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wextra succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1747903933/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1747903933.dir/build.make CMakeFiles/cmTryCompileExec1747903933.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1747903933.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wextra   -Wextra -o CMakeFiles/cmTryCompileExec1747903933.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1747903933
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1747903933.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wextra    CMakeFiles/cmTryCompileExec1747903933.dir/src.cxx.o  -o cmTryCompileExec1747903933 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wformat=2 succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1988521432/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1988521432.dir/build.make CMakeFiles/cmTryCompileExec1988521432.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1988521432.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wformat=2   -Wformat=2 -o CMakeFiles/cmTryCompileExec1988521432.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1988521432
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1988521432.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wformat=2    CMakeFiles/cmTryCompileExec1988521432.dir/src.cxx.o  -o cmTryCompileExec1988521432 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Winvalid-pch succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec624532641/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec624532641.dir/build.make CMakeFiles/cmTryCompileExec624532641.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec624532641.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Winvalid-pch   -Winvalid-pch -o CMakeFiles/cmTryCompileExec624532641.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec624532641
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec624532641.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Winvalid-pch    CMakeFiles/cmTryCompileExec624532641.dir/src.cxx.o  -o cmTryCompileExec624532641 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wno-format-nonliteral succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1820756030/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1820756030.dir/build.make CMakeFiles/cmTryCompileExec1820756030.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1820756030.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-format-nonliteral   -Wno-format-nonliteral -o CMakeFiles/cmTryCompileExec1820756030.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1820756030
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1820756030.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-format-nonliteral    CMakeFiles/cmTryCompileExec1820756030.dir/src.cxx.o  -o cmTryCompileExec1820756030 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wpointer-arith succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2168261686/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2168261686.dir/build.make CMakeFiles/cmTryCompileExec2168261686.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2168261686.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wpointer-arith   -Wpointer-arith -o CMakeFiles/cmTryCompileExec2168261686.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec2168261686
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2168261686.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wpointer-arith    CMakeFiles/cmTryCompileExec2168261686.dir/src.cxx.o  -o cmTryCompileExec2168261686 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wshadow succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3830827117/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3830827117.dir/build.make CMakeFiles/cmTryCompileExec3830827117.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3830827117.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wshadow   -Wshadow -o CMakeFiles/cmTryCompileExec3830827117.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec3830827117
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3830827117.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wshadow    CMakeFiles/cmTryCompileExec3830827117.dir/src.cxx.o  -o cmTryCompileExec3830827117 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wunused succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3268688100/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3268688100.dir/build.make CMakeFiles/cmTryCompileExec3268688100.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3268688100.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wunused   -Wunused -o CMakeFiles/cmTryCompileExec3268688100.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec3268688100
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3268688100.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wunused    CMakeFiles/cmTryCompileExec3268688100.dir/src.cxx.o  -o cmTryCompileExec3268688100 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wwrite-strings succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2912621552/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2912621552.dir/build.make CMakeFiles/cmTryCompileExec2912621552.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2912621552.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wwrite-strings   -Wwrite-strings -o CMakeFiles/cmTryCompileExec2912621552.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec2912621552
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2912621552.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wwrite-strings    CMakeFiles/cmTryCompileExec2912621552.dir/src.cxx.o  -o cmTryCompileExec2912621552 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-funit-at-a-time succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3805216296/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3805216296.dir/build.make CMakeFiles/cmTryCompileExec3805216296.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3805216296.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-funit-at-a-time   -funit-at-a-time -o CMakeFiles/cmTryCompileExec3805216296.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec3805216296
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3805216296.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-funit-at-a-time    CMakeFiles/cmTryCompileExec3805216296.dir/src.cxx.o  -o cmTryCompileExec3805216296 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wno-strict-overflow succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1486177786/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1486177786.dir/build.make CMakeFiles/cmTryCompileExec1486177786.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1486177786.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-strict-overflow   -Wno-strict-overflow -o CMakeFiles/cmTryCompileExec1486177786.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1486177786
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1486177786.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-strict-overflow    CMakeFiles/cmTryCompileExec1486177786.dir/src.cxx.o  -o cmTryCompileExec1486177786 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wno-deprecated succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1369023141/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1369023141.dir/build.make CMakeFiles/cmTryCompileExec1369023141.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1369023141.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-deprecated   -Wno-deprecated -o CMakeFiles/cmTryCompileExec1369023141.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec1369023141
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1369023141.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-deprecated    CMakeFiles/cmTryCompileExec1369023141.dir/src.cxx.o  -o cmTryCompileExec1369023141 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wno-invalid-offsetof succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2172277865/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2172277865.dir/build.make CMakeFiles/cmTryCompileExec2172277865.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2172277865.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-invalid-offsetof   -Wno-invalid-offsetof -o CMakeFiles/cmTryCompileExec2172277865.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec2172277865
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2172277865.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wno-invalid-offsetof    CMakeFiles/cmTryCompileExec2172277865.dir/src.cxx.o  -o cmTryCompileExec2172277865 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Woverloaded-virtual succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec309396330/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec309396330.dir/build.make CMakeFiles/cmTryCompileExec309396330.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec309396330.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Woverloaded-virtual   -Woverloaded-virtual -o CMakeFiles/cmTryCompileExec309396330.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec309396330
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec309396330.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Woverloaded-virtual    CMakeFiles/cmTryCompileExec309396330.dir/src.cxx.o  -o cmTryCompileExec309396330 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_WARNING-Wstrict-null-sentinel succeded with the following output:
+Change Dir: /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec186283200/fast"
+gmake[3]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec186283200.dir/build.make CMakeFiles/cmTryCompileExec186283200.dir/build
+gmake[4]: Entering directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_progress_report /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec186283200.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wstrict-null-sentinel   -Wstrict-null-sentinel -o CMakeFiles/cmTryCompileExec186283200.dir/src.cxx.o -c /mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: missing whitespace after the macro name
+Linking CXX executable cmTryCompileExec186283200
+/usr/local/cmake/2.8.10.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec186283200.dir/link.txt --verbose=1
+/usr/bin/c++      -Wall -Wcast-align -Wdisabled-optimization -Wextra -Wformat=2 -Winvalid-pch -Wno-format-nonliteral -Wpointer-arith -Wshadow -Wunused -Wwrite-strings -funit-at-a-time -Wno-strict-overflow -Wno-deprecated -Wno-invalid-offsetof -Woverloaded-virtual -Wstrict-null-sentinel -fPIC  -DCXX_HAS_WARNING-Wstrict-null-sentinel    CMakeFiles/cmTryCompileExec186283200.dir/src.cxx.o  -o cmTryCompileExec186283200 -rdynamic 
+gmake[4]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+gmake[3]: Leaving directory `/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ANTS-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}

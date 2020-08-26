@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_CreateJacobianDeterminantImage.a  CMakeFiles/l_CreateJacobianDeterminantImage.dir/CreateJacobianDeterminantImage.cxx.o
+/usr/bin/ranlib ../../lib/libl_CreateJacobianDeterminantImage.a

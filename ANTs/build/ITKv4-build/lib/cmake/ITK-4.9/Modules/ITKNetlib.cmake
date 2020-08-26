@@ -1,0 +1,12 @@
+set(ITKNetlib_LOADED 1)
+set(ITKNetlib_ENABLE_SHARED "0")
+set(ITKNetlib_DEPENDS "ITKVNL")
+set(ITKNetlib_PUBLIC_DEPENDS "ITKVNL")
+set(ITKNetlib_TRANSITIVE_DEPENDS "ITKVNL")
+set(ITKNetlib_PRIVATE_DEPENDS "")
+set(ITKNetlib_LIBRARIES "itkNetlibSlatec")
+set(ITKNetlib_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/Netlib")
+set(ITKNetlib_LIBRARY_DIRS "")
+set(ITKNetlib_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKNetlib_TARGETS_FILE "")
+

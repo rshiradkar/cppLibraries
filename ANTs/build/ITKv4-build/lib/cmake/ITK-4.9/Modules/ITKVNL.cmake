@@ -1,0 +1,12 @@
+set(ITKVNL_LOADED 1)
+set(ITKVNL_ENABLE_SHARED "0")
+set(ITKVNL_DEPENDS "")
+set(ITKVNL_PUBLIC_DEPENDS "")
+set(ITKVNL_TRANSITIVE_DEPENDS "")
+set(ITKVNL_PRIVATE_DEPENDS "")
+set(ITKVNL_LIBRARIES "itkvnl_algo;itkvnl;itkv3p_netlib")
+set(ITKVNL_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/v3p/netlib;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/vcl;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/ThirdParty/VNL/src/vxl/core;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/VNL/src/vxl/v3p/netlib;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/VNL/src/vxl/vcl;/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4-build/Modules/ThirdParty/VNL/src/vxl/core")
+set(ITKVNL_LIBRARY_DIRS "")
+set(ITKVNL_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKVNL_TARGETS_FILE "")
+

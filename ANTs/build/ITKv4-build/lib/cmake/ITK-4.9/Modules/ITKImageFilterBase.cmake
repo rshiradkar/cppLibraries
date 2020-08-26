@@ -1,0 +1,12 @@
+set(ITKImageFilterBase_LOADED 1)
+set(ITKImageFilterBase_ENABLE_SHARED "0")
+set(ITKImageFilterBase_DEPENDS "ITKCommon")
+set(ITKImageFilterBase_PUBLIC_DEPENDS "")
+set(ITKImageFilterBase_TRANSITIVE_DEPENDS "ITKCommon")
+set(ITKImageFilterBase_PRIVATE_DEPENDS "")
+set(ITKImageFilterBase_LIBRARIES "ITKCommon")
+set(ITKImageFilterBase_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Filtering/ImageFilterBase/include")
+set(ITKImageFilterBase_LIBRARY_DIRS "")
+set(ITKImageFilterBase_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKImageFilterBase_TARGETS_FILE "")
+

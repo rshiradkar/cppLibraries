@@ -1,0 +1,9 @@
+# Target labels
+ ITKIOTransformBase
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkCompositeTransformIOHelper.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkTransformFactoryBase.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkTransformFileReader.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkTransformFileWriterSpecializations.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkTransformIOBase.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/TransformBase/src/itkTransformIOFactory.cxx

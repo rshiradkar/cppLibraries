@@ -1,0 +1,5 @@
+# Target labels
+ ITKIOHDF5
+# Source files and their labels
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/HDF5/src/itkHDF5ImageIOFactory.cxx
+/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/IO/HDF5/src/itkHDF5ImageIO.cxx

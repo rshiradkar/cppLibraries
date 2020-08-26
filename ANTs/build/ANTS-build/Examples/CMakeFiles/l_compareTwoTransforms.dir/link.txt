@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_compareTwoTransforms.a  CMakeFiles/l_compareTwoTransforms.dir/compareTwoTransforms.cxx.o
+/usr/bin/ranlib ../../lib/libl_compareTwoTransforms.a

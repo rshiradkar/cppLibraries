@@ -1,0 +1,12 @@
+set(ITKQuadEdgeMesh_LOADED 1)
+set(ITKQuadEdgeMesh_ENABLE_SHARED "1")
+set(ITKQuadEdgeMesh_DEPENDS "ITKCommon;ITKMesh")
+set(ITKQuadEdgeMesh_PUBLIC_DEPENDS "")
+set(ITKQuadEdgeMesh_TRANSITIVE_DEPENDS "ITKCommon")
+set(ITKQuadEdgeMesh_PRIVATE_DEPENDS "ITKMesh")
+set(ITKQuadEdgeMesh_LIBRARIES "ITKQuadEdgeMesh")
+set(ITKQuadEdgeMesh_INCLUDE_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/ITKv4/Modules/Core/QuadEdgeMesh/include")
+set(ITKQuadEdgeMesh_LIBRARY_DIRS "")
+set(ITKQuadEdgeMesh_RUNTIME_LIBRARY_DIRS "/mnt/projects/CSE_BME_AXM788/home/soumya/DEV/ANTs/build/lib")
+set(ITKQuadEdgeMesh_TARGETS_FILE "")
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_antsAI.a  CMakeFiles/l_antsAI.dir/antsAI.cxx.o
+/usr/bin/ranlib ../../lib/libl_antsAI.a

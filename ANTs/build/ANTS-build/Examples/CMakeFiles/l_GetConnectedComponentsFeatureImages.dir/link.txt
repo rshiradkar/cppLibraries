@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libl_GetConnectedComponentsFeatureImages.a  CMakeFiles/l_GetConnectedComponentsFeatureImages.dir/GetConnectedComponentsFeatureImages.cxx.o
+/usr/bin/ranlib ../../lib/libl_GetConnectedComponentsFeatureImages.a
